@@ -1,7 +1,6 @@
 import time
 
 print("=== Countdown Timer ===")
-
 seconds = int(input("Enter time in seconds: "))
 
 while seconds > 0:
@@ -10,3 +9,4 @@ while seconds > 0:
     seconds -= 1
 
 print("⏰ Time's up!")
+
